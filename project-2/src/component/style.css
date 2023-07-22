@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 72px;
+    }
+    
+    nav ul{
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 25px;
+      font-weight: 500;
+    }
+    
+    nav ul li{
+      color: #2E2E2E;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+    }
